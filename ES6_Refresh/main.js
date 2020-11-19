@@ -1,0 +1,20 @@
+//ONCST & LET
+
+
+// ARROW FUNCTION
+
+// FOREACH
+
+// MAP
+
+// FILTER
+
+//SPREAD
+
+// DESTRUCTING
+
+//CLASSES
+
+//SUBCLASS
+
+//MODULES
